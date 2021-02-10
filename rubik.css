@@ -17,7 +17,8 @@ h1{
 }
 
 p{
-  text-align: justify;
+    margin: 5px;
+    text-align: justify;
 }
 
 
